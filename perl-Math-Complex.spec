@@ -1,9 +1,9 @@
 %define upstream_name    Math-Complex
-%define upstream_version 1.56
+%define upstream_version 1.57
 
 Name:       perl-%{upstream_name}
 Version:    %perl_convert_version %{upstream_version}
-Release:    %mkrel 2
+Release:    %mkrel 1
 
 Summary:    Complex numbers and associated mathematical functions
 License:    GPL+ or Artistic
