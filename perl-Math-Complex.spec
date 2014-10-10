@@ -3,7 +3,7 @@
 
 Name:		perl-%{upstream_name}
 Version:	%perl_convert_version 1.59
-Release:	1
+Release:	2
 
 Summary:	Complex numbers and associated mathematical functions
 License:	GPL+ or Artistic
